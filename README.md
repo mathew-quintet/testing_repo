@@ -1,3 +1,4 @@
 # testing_repo
-for private testing only
+This repository is for private testing only.
+
  
